@@ -61,7 +61,7 @@ Open http://localhost:3000 in your browser.
 ### Home Page
 
 
-![Screenshot](./lab-01/home.png)
+![Home Route](home.png)
 
 ### About Page
 
