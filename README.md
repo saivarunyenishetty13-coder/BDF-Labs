@@ -37,7 +37,7 @@ Open http://localhost:3000.
 
 Expected output: `Hello`
 
-Stop the server with Ctrl + C.
+Stop the server with Ctrl + C before starting the Express server.
 
 ### Express Server
 
@@ -76,7 +76,7 @@ Open http://localhost:3000 in your browser.
 
 ## Notes
 
-This lab demonstrates the creation of a basic HTTP server using Node.js and a web server using Express.js. It includes multiple GET routes and appropriate HTTP status codes.
+This lab demonstrates creating a basic HTTP server using Node.js and a web server using Express.js. It implements multiple GET routes and handles unknown routes with appropriate HTTP status codes.
 
 ## Live Link
 
