@@ -69,7 +69,7 @@ Open http://localhost:3000 in your browser.
 
 ### Current Date and Time
 
-![Time Page](screenshots/time.png)
+![Time](time.png)
 
 ### Unknown Route
 
