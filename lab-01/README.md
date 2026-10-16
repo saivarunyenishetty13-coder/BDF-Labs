@@ -73,7 +73,7 @@ Open http://localhost:3000 in your browser.
 
 ### Unknown Route
 
-![404 Page](screenshots/404.png)
+![404 Page](404.png)
 
 ## Notes
 
