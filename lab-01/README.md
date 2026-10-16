@@ -65,7 +65,7 @@ Open http://localhost:3000 in your browser.
 
 ### About Page
 
-![About Page](screenshots/about.png)
+![About Route](about.png)
 
 ### Current Date and Time
 
