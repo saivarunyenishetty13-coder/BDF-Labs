@@ -60,7 +60,8 @@ Open http://localhost:3000 in your browser.
 
 ### Home Page
 
-![Home Page](./lab-01/home.png)
+
+![Screenshot](./lab-01/home.png)
 
 ### About Page
 
