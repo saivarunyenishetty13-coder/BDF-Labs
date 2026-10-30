@@ -8,7 +8,7 @@
 
 ## Live Deployment
 
-**Status:** Not deployed yet. The application currently runs locally.
+**Status:** https://bdf-labs-2-y3jd.onrender.com
 
 ## Objective
 
