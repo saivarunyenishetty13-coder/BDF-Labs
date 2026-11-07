@@ -32,3 +32,18 @@ This lab demonstrates connecting an Express.js server with an SQLite database an
 ### Lab Files
 
 [View Lab 2 README](./lab-02/README.md)
+
+## Lab 3: REST API, Query Parameters, Validation and Debugging
+
+This lab demonstrates building REST APIs using Node.js and Express.js, implementing query parameters, search, sorting, pagination, price filtering, input validation, and proper HTTP status codes.
+
+### Technologies Used
+- Node.js
+- Express.js
+- SQLite
+- JavaScript
+- Visual Studio Code
+
+### Lab Files
+
+[View Lab 3 README](lab-03/README.md)
