@@ -415,11 +415,9 @@ After completing this lab, I understood:
 
 The application was developed and tested locally using Node.js, Express.js and SQLite.
 
-**Deployment Status:** Not deployed.
+**Deployment Status:** https://bdf-labs-3-hbks.onrender.com
 
-The project was verified using the local development server at `http://localhost:3000/`.
 
----
 
 ## 17. Conclusion
 
